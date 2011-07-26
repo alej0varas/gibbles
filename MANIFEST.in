@@ -1,0 +1,11 @@
+include TODO.txt
+include LICENSE.txt
+include BUGS.txt
+include CHANGES.txt
+include README.txt
+include gibbles/__init__.py
+include gibbles/__main__.py
+include gibbles/data.py
+include run_game.py
+include setup.py
+include gibbles.py
