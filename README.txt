@@ -1,4 +1,4 @@
-Nibbles
+Gibbles
 =======
 
 nibbles like game. much more fun, moves on all directions and jump, can be played with mouse.
